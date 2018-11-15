@@ -14,3 +14,4 @@ This workshop will teach you how to create a GitHub App that automatically moder
 
 Please refer to the [Instructions README](/docs/readme.md)
 
+_This line is added to trigger a build_
